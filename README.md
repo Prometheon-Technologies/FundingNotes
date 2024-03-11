@@ -25,13 +25,13 @@
 ## Introduction
 
 - Your ability to execute matters more than the idea itself.
-- Focus on VC and Angle Investors who have invested in your industry.
+- Focus on VC and Angel Investors who have invested in your industry.
   - Focusing on Tech, high scale, and high growth companies.
 - Leverage a linkedin network to find investors and connections.
   - Add everyone you know and browse their connections.
   - Use the search bar to find investors in your industry.
   - Use the "People Also Viewed" section to find more investors.
-  - Use AngleList to check if they are open to new investments.
+  - Use AngelList to check if they are open to new investments.
   - Ask for a warm introduction, most investors will not respond to cold emails.
 - Share deck with a link, not as an attachment or PDF and never send a PPT.
 - Attend startup events and pitch competitions. Start befriending people to expand your network.
