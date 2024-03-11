@@ -2,6 +2,28 @@
 
 > _"You need to pitch 100 investors for every 500k that you want to raise" - 500 Startups Accelerator Elizabeth Yin_
 
+## Table of Contents
+
+- [Investor Notes](#investor-notes)
+  - [Table of Contents](#table-of-contents)
+  - [Documents](#documents)
+  - [Introduction](#introduction)
+  - [Typical Investor Flow](#typical-investor-flow)
+  - [Finding Investors](#finding-investors)
+  - [Links](#links)
+    - [Youtube Videos](#youtube-videos)
+    - [Accelerators and Incubators](#accelerators-and-incubators)
+    - [EU links](#eu-links)
+    - [Funding Opportunities](#funding-opportunities)
+    - [Potential Partners](#potential-partners)
+
+## Documents
+
+- [Images](./assets/imgs/)
+- [PDFs](./assets/pdfs/)
+
+## Introduction
+
 - Your ability to execute matters more than the idea itself.
 - Focus on VC and Angle Investors who have invested in your industry.
   - Focusing on Tech, high scale, and high growth companies.
@@ -18,13 +40,13 @@
 - Always be prepared to answer questions about your business.
 - Create an Excel sheet to keep track of your progress, every connection, every conversation, and the status.
 
-If most investors are saying that you are too early, then you are too early. Take it, ask if they would like to stay posted on your traction. Stop awasting time on meetings and focus on product traction.
+If most investors are saying that you are too early, then you are too early. Take it, ask if they would like to stay posted on your traction. Stop wasting time on meetings and focus on product traction.
 
 If they agree to stay posted, then send them a monthly update on your traction. If they don't, then move on. It is very important to keep the contact alive and active.
 
 Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs. These are debt instruments that convert to equity at a later date. They are used to avoid the valuation discussion at the early stages. **STAY AWAY FROM EQUITY AT THIS STAGE**.
 
-# Typical Investor Flow
+## Typical Investor Flow
 
 1. **Introduction**: Warm introduction from a mutual connection.
 2. **Pitch Deck**: Share your pitch deck with a link.
@@ -39,15 +61,15 @@ Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs.
 6. **Negotiation**: Negotiate the terms of the investment.
 7. **Investment**: Close the deal and get the money.
 
-# Finding Investors
+## Finding Investors
 
 - Define your stage and investor type.
 - Investor Research
   - Start in your immediate City.
 
-# Links
+## Links
 
-## Youtube Videos
+### Youtube Videos
 
 - [How to Build a Cap Table](https://www.youtube.com/watch?v=wQ9KHm9A0R4)
 - [Seed Funding: How to raise Venture Capital](https://www.youtube.com/watch?v=4RAs9Y5wwDo)
@@ -60,7 +82,7 @@ Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs.
 - [How to crowdfund your business like a pro](https://www.youtube.com/watch?v=6w7mpnGIkTg)
 - [How to raise money as an entrepreneur](https://www.youtube.com/watch?v=KB442EchOTY)
 
-## Accelerators and Incubators
+### Accelerators and Incubators
 
 - [How to Raise Money](https://www.youtube.com/watch?v=3q4f6z5i3V0)
 - [WellFounder](https://www.wellfound.com/)
@@ -77,7 +99,7 @@ Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs.
 - [TechCrunch](https://techcrunch.com/)
 - [Hustle Fund](https://hustlefund.vc/)
 
-## EU links
+### EU links
 
 - [Getting Funding](https://europa.eu/youreurope/business/finance-funding/getting-funding/index_en.htm)
 - [Startups](https://europa.eu/youreurope/business/running-business/start-ups/index_en.htm)
@@ -107,13 +129,13 @@ Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs.
 - [VITO R&D](https://vito.be/en/collaborate/vito-sme/research-and-development-projects)
 - [VITO Co-creation](https://vito.be/en/collaborate/vito-sme/co-creation-pathways)
 
-## Funding Opportunities
+### Funding Opportunities
 
 -  [Breakthrough Energy Ventures Catalyst Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUMTZCSDQzNExWVExJUldKSjcyQ0dYRUQxSS4u)
 -  [Breakthrough Energy Ventures EU Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUNFRMVFhSNktPM1gwVEY2MFAzMEZCWVRZWC4u)
 - [Application for Techstars](https://apply.techstars.com/)
 - [Nimity](https://app.nimity.com/2793/financing)
 
-## Potential Partners
+### Potential Partners
 
 - [Bataryasan](https://bataryasan.com)
