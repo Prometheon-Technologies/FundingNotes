@@ -16,6 +16,12 @@
     - [EU links](#eu-links)
     - [Funding Opportunities](#funding-opportunities)
     - [Potential Partners](#potential-partners)
+    - [Crowd Funding](#crowd-funding)
+  - [Crowd Funding Notes](#crowd-funding-notes)
+    - [Notes](#notes)
+    - [Plan](#plan)
+    - [Prep](#prep)
+    - [Launch](#launch)
 
 ## Documents
 
@@ -131,11 +137,117 @@ Seed and Pre-seed funding is typically handled using Convertible Notes or SAFEs.
 
 ### Funding Opportunities
 
--  [Breakthrough Energy Ventures Catalyst Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUMTZCSDQzNExWVExJUldKSjcyQ0dYRUQxSS4u)
--  [Breakthrough Energy Ventures EU Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUNFRMVFhSNktPM1gwVEY2MFAzMEZCWVRZWC4u)
+- [Breakthrough Energy Ventures Catalyst Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUMTZCSDQzNExWVExJUldKSjcyQ0dYRUQxSS4u)
+- [Breakthrough Energy Ventures EU Fund](https://forms.office.com/pages/responsepage.aspx?id=VgCUFnQD7kGRilV2MicP6QJ30UCadfxBkM27WXPU6gVUNFRMVFhSNktPM1gwVEY2MFAzMEZCWVRZWC4u)
 - [Application for Techstars](https://apply.techstars.com/)
 - [Nimity](https://app.nimity.com/2793/financing)
 
 ### Potential Partners
 
 - [Bataryasan](https://bataryasan.com)
+
+### Crowd Funding
+
+- [Kickstarter](https://www.kickstarter.com/)
+- [Indiegogo](https://www.indiegogo.com/)
+- [GoFundMe](https://www.gofundme.com/)
+- [Patreon](https://www.patreon.com/)
+- [CrowdCube](https://www.crowdcube.com/)
+- [Seedrs](https://www.seedrs.com/)
+- [FundedByMe](https://www.fundedbyme.com/)
+- [Fundable](https://www.fundable.com/)
+- [StartEngine](https://www.startengine.com/)
+- [Wefunder](https://wefunder.com/)
+- [Republic](https://republic.co/)
+- [MicroVentures](https://microventures.com/)
+- [AngelList](https://angel.co/)
+- [EquityNet](https://www.equitynet.com/)
+- [CrowdFunder](https://www.crowdfunder.com/)
+- [Fundrise](https://fundrise.com/)
+- [CrowdStreet](https://www.crowdstreet.com/)
+- [RealtyMogul](https://www.realtymogul.com/)
+- [PeerStreet](https://www.peerstreet.com/)
+
+## Crowd Funding Notes
+
+- **Kickstarter**: For creative projects.
+- **Indiegogo**: For creative projects.
+- **GoFundMe**: For personal causes and life events.
+- **Patreon**: For creators and artists.
+- **CrowdCube**: For equity investments.
+- **Seedrs**: For equity investments.
+- **FundedByMe**: For equity investments.
+- **Fundable**: For equity investments.
+- **StartEngine**: For equity investments.
+- **Wefunder**: For equity investments.
+- **Republic**: For equity investments.
+- **MicroVentures**: For equity investments.
+- **AngelList**: For equity investments.
+- **EquityNet**: For equity investments.
+- **CrowdFunder**: For equity investments.
+- **Fundrise**: For real estate investments.
+- **CrowdStreet**: For real estate investments.
+- **RealtyMogul**: For real estate investments.
+- **PeerStreet**: For real estate investments.
+
+### Notes
+
+`Types of campaigns`:
+
+- Rewards
+- Equity
+- Debt
+- Real Estate
+- Crypto
+- NFT
+- Donations
+- Revenue Share.
+
+`Reward campaigns` are the most common and are used for products, films, music, and other creative projects. `Equity campaigns` are used to raise money for a company in exchange for equity. `Debt campaigns` are used to raise money for a company in exchange for debt. `Real Estate campaigns` are used to raise money for real estate projects. `Revenue Share campaigns` are used to raise money for a company in exchange for a share of the revenue.
+
+`Reward campaigns` are good for MVP validation, your MVP in this case is a video pitch and you are testing whether the market cares about it.
+
+It is very difficult to raise money for B2B or enterprise products on Kickstarter or Indiegogo. It is better to use equity crowdfunding for these types of products.
+
+- **_The key to successful crowdfunding is promotion_**. Simply being on the platform does not get you backed! You have to hustle with press, blogs, social media, and other marketing efforts to get the word out.
+- Consider the cost of fulfilling and marketing the campaign. Many campaigns fail because they don't account for these costs.
+- The best campaigns are those that have a strong community and a strong story. If you don't have a community, you need to build one.
+- Equity Crowdfunding has a €5 million cap in the EU. This means that you can only raise up to €5 million in a 12-month period. This is a good option for companies that are too early for VC funding but too late for grants.
+  - Equity Crowd rounds can create massive cap-tables with tons of investors in them. This can be a headache for future rounds, especially when the majority of the investors are small and have no influence on the company.
+    - The solution to this is to create a Special Purpose Vehicle (SPV) (An SPV is a separate legal entity that is formed proportionally to the investor check sizes. This legal entity then invests in the initial startup. SPV must have their own rules to govern themselves and vote on startup decisions - as a single entity) that will hold all the investors and then invest in the company. This way you only have one investor on your cap table, this investor is a legal entity that represents all the other investors.
+  - A decent Equity Crowdfunding strategy is to sell, for example, 8% of the company at €23 per share. This way you can raise €1 million and have a valuation of €12.5 million. This is a good way to raise money without giving up too much of the company. Every shareholder can then receive perks, such as discounts on products, or other benefits.
+
+### Plan
+
+`Pre-launch`:
+
+- Building up a buzz, build assets.
+  - email list
+  - social media following
+  - press contacts/media outreach
+  - friends and family
+  - create the expectation that something is coming.
+- Momentum
+  - Stretch goals
+  - add-on's (up-sells)
+  - Facebook/instagram/TikTok ads
+  - Media outreach
+  - Announcements
+  - Maintain a sense that this is a limited opportunity.
+    - Take advantage of FOMO.
+      - Early bird reward tiers
+      - Limited number of rewards
+- List WHY someone is going to back the project
+  - List the reasons why someone would back you, to narrow in on the messaging.
+  - Example Reasons:
+    - Benefit Focused
+    - Social Proof
+    - Support the creator
+- Kickstarter Launch Formula:
+  - (UDEMY): http://www.crowdcrux.com/udemypromo
+
+### Prep
+
+### Launch
+
+[Back to Top](#investor-notes)
