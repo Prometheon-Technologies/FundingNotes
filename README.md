@@ -22,6 +22,7 @@
     - [Plan](#plan)
     - [Prep](#prep)
     - [Launch](#launch)
+    - [Extra](#extra)
 
 ## Documents
 
@@ -216,6 +217,29 @@ It is very difficult to raise money for B2B or enterprise products on Kickstarte
   - Equity Crowd rounds can create massive cap-tables with tons of investors in them. This can be a headache for future rounds, especially when the majority of the investors are small and have no influence on the company.
     - The solution to this is to create a Special Purpose Vehicle (SPV) (An SPV is a separate legal entity that is formed proportionally to the investor check sizes. This legal entity then invests in the initial startup. SPV must have their own rules to govern themselves and vote on startup decisions - as a single entity) that will hold all the investors and then invest in the company. This way you only have one investor on your cap table, this investor is a legal entity that represents all the other investors.
   - A decent Equity Crowdfunding strategy is to sell, for example, 8% of the company at €23 per share. This way you can raise €1 million and have a valuation of €12.5 million. This is a good way to raise money without giving up too much of the company. Every shareholder can then receive perks, such as discounts on products, or other benefits.
+- It can take 6 - 12 months to prepare for a crowdfunding campaign. This includes starting to build a community, creating a marketing plan, and creating the campaign itself.
+- It's all about early momentum
+  - Lock in a newsletter placement with a large newsletter, or the kickstarter platform, that is relevant to your product
+  - You need to get 1/3 of your sales as fast as possible, ideally in the first 48 hours.
+  - Lean on friends and family to get the ball rolling.
+    - Strategy: Create 200 - 300 personal videos where you individually ask friends and family to back your campaign. This is a good way to get the ball rolling. `youname.mp4` or something like that.
+      - No complication or editing, just a personal message. Turn on webcam, record, and send. Upload to youtube as an unlisted video and send the link.
+    - **DO NOT** have a `Thank you` reward tier. This is a waste of a reward tier. You can thank people in the updates. If you give people the opportunity to back you for nothing, they will. Sell your actual product.
+      - Think, cheapest tier being $50, and the next tier being $100. This way you can thank people in the updates and they will be more likely to back you at the $100 tier.
+    - Write individual thank you notes to everyone who backs you. This is a good way to build a community.
+- Advertising is worth the money. You can get a 3x return on ad spend. This is a good way to get the ball rolling.
+
+`Kickstarter or Indiegogo`:
+
+Indiegogo has a very good account support and provides account reps to help you with your campaign.
+
+Kickstarter has a larger community and is better for creative projects.
+
+Indiegogo might be willing to cut a deal that if you reach a certain amount of money, they will promote your campaign to their community via marketing emails and other content.
+
+Negotiate your email placements EARLY in the campaign. This is a good way to get a boost in backers.
+
+Be sure to establish a relationship with your account rep early on and ask them for advice on how to make your campaign successful. Setting up weekly calls with them is a good idea. Ask for whatever resources they have to help you build your campaign.
 
 ### Plan
 
@@ -244,10 +268,88 @@ It is very difficult to raise money for B2B or enterprise products on Kickstarte
     - Social Proof
     - Support the creator
 - Kickstarter Launch Formula:
-  - (UDEMY): http://www.crowdcrux.com/udemypromo
+  - (UDEMY): <http://www.crowdcrux.com/udemypromo>
+- Email Acquisition:
+  - Social Media adds to a lead generation landing page.
+    - Checkout the Facebook ads library to look at competitors ads.
+  - Unbounce platform for landing pages.
+  - €1.50 - €2.50 per email and 2% - 5% conversion rate.
+    - €1500 - €2500 for 1000 emails should convert to 20 - 50 backers.
+  - Find an advertising partner that can help you with this.
+    - invest a few thousand euros to do personal ads to get the ball rolling, then spend up to 7k more with the partner.
+    - Common to have advertising agencies that will take a setup fee and then take a commission on the sales.
+    - Ask for a weekly report on the ad spend and the return on ad spend.
+      - Amount spent, # of sales, revenue, daily budget
+      - Weekly metrics: ROAS, CAC, Conversion rate, CTR, CPC, CPA
+        - Total AD Revenue
+        - Total Costs (ad spend + agency fees)
+        - Margin
+        - Avg Customer Value
+        - Avg Customer values: - Platform Fee and Card fee
+        - Take home (After comm, spend, fees)
+  - Ad spend is worth it, as the momentum keeps the campaign in the trending category, which drives backers who the ad agency does not take a commission on.
+- Consider the cost of fulfilling:
+  - Duties and taxes
+  - Shipping
+  - Import
+  - Packaging
+
+`How to set your Campaign Goal`:
+
+Set a goal that is achievable. If you set a goal that is too high, you will not get funded. If you set a goal that is too low, you will not get funded. The goal should be the minimum amount of money that you need to fulfill the rewards + some extra for business and unforeseen expenses.
+
+Try to achieve 30% of your goal in the first 48 hours. This is a good indicator of whether or not you will be able to achieve your goal.
+
+Consider the optics for potential backers, it is always more attractive to back a project that doing really, really well.
+
+This is all about early momentum. Getting to €30,000 of a €30,000 goal is much more attractive than getting to €30,000 of a €75,000 goal. This will propel your campaign to the top of the platform and get you more organic traffic, as well as press releases and other media attention.
+
+`How to Find a Manufacturer`:
+
+<!-- TODO -->
+
+- Alibaba [example communication](#extra)
 
 ### Prep
 
 ### Launch
+
+### Extra
+
+`Contact Template for Manufacturers`:
+
+```txt
+Subject: Quantity Need: 3000-5000 pieces
+
+Hello,
+
+My name is [Your Name] and I am the founder/partner of [Your Company Name]. We are a [Your Company Description] and we are looking for a manufacturer to produce our product.
+
+I am looking to start a business relationship with a manufacturer that can produce [Your Product] in quantities of 3000-5000 pieces. We are looking for a manufacturer that can produce high-quality products at a competitive price, and came across your company page.
+
+[fill in the details about your product and what you are looking for, ask pertinent questions about their capabilities, and request a quote]
+
+What is the cost per unit at your lowest minimum order quantity?
+
+What is the cheapest price that you can offer and at what quantity would need to be reached to get to that price?
+
+What is the lead time for production?
+
+What is the cost of shipping to [Your Country]?
+
+Can I visit your factory if we decide to do business with your company? Where exactly is it located?
+
+What are the options for custom branding and packaging? Please provide media and examples of the readily available options.
+
+Where are/is your [material(s)] sourced from? Can you let me know all of the details about the materials that you use?
+
+Can we order samples? If so, what is the cost of 10 - 20 samples and the shipping to [Your Country]?
+
+What is the payment structure for the first order?
+
+Please provide us with a quote and let me know if you're available next month for us to visit and inspect the factory should we decide to move forward. We are flexible on dates but do require a factory visit if possible.
+
+I look forward to hearing back from you, thank you.
+```
 
 [Back to Top](#investor-notes)
